@@ -1,0 +1,4 @@
+->start local server with published APIs
+->run command in vs code terminal: npm start
+->click dropdown option on home page for any table
+->review and make changes as per requirement in configuration model
